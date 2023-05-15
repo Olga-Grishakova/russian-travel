@@ -3,21 +3,8 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1279px) {
-  .lead__image {
-    /* max-width: 964px; */
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .lead__image {
-    /* max-width: 768px; */
-  }
-}
-
 @media screen and (max-width: 767px) {
   .lead__image {
-    padding: 0 -2px 0;
-    /* max-width: 320px; */
+    padding: 0 0 0;
   }
 }
