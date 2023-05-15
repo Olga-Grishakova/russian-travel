@@ -1,5 +1,5 @@
 # "Путешествия по России"
-[**Russian travel**] (https://olga-grishakova.github.io/russian-travel/index.html) (ссылка для просмотра)
+[**Russian travel**](https://olga-grishakova.github.io/russian-travel/index.html) (ссылка для просмотра)
 
 
 ## Описание проекта
